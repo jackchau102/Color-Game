@@ -1,10 +1,10 @@
-# Color-Game
-RGB Color Game \n
+rbl# Color-Game
+RGB Color Game
 
 Written using vanilla JS, HTML/CSS, and Bootstrap
 
 Functionality: 
-  • Once the game is started, player will be asked to pick the right RGB color \n
+  • Once the game is started, player will be asked to pick the right RGB color
   • Game helps with beginners who are trying to get a sense of how RGB works
 
 To play, choose two mode: 
