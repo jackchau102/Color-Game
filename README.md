@@ -1,4 +1,4 @@
-RGB Color Game  
+<h1> RGB Color Game </h1>
 
 Written using vanilla JS, HTML/CSS, and Bootstrap  
 
